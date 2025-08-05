@@ -1,6 +1,6 @@
 <?php
 
-namespace vverardo\UserTransactions;
+namespace vverardo\CometaCronRelatedPackage;
 
 use Illuminate\Support\ServiceProvider;
 
