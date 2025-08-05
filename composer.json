@@ -1,17 +1,17 @@
 {
-    "name": "vverardO/user-transactions",
+    "name": "vverardo/user-transactions",
     "description": "Laravel models for User and Transaction",
     "type": "library",
     "license": "MIT",
     "autoload": {
       "psr-4": {
-        "vverardO\\UserTransactions\\": "src/"
+        "vverardo\\UserTransactions\\": "src/"
       }
     },
     "extra": {
       "laravel": {
         "providers": [
-          "vverardO\\UserTransactions\\UserTransactionsServiceProvider"
+          "vverardo\\UserTransactions\\UserTransactionsServiceProvider"
         ]
       }
     },

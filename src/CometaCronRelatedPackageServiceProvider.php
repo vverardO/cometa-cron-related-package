@@ -1,6 +1,6 @@
 <?php
 
-namespace vverardO\UserTransactions;
+namespace vverardo\UserTransactions;
 
 use Illuminate\Support\ServiceProvider;
 
