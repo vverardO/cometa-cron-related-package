@@ -1,17 +1,17 @@
 {
-    "name": "vverardo/user-transactions",
-    "description": "Laravel models for User and Transaction",
+    "name": "vverardo/cometa-cron-related-package",
+    "description": "Default laravel models for cometa cron related package",
     "type": "library",
     "license": "MIT",
     "autoload": {
       "psr-4": {
-        "vverardo\\UserTransactions\\": "src/"
+        "vverardo\\CometaCronRelatedPackage\\": "src/"
       }
     },
     "extra": {
       "laravel": {
         "providers": [
-          "vverardo\\UserTransactions\\UserTransactionsServiceProvider"
+          "vverardo\\CometaCronRelatedPackage\\CometaCronRelatedPackageServiceProvider"
         ]
       }
     },
